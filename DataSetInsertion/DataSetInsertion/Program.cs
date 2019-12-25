@@ -20,11 +20,11 @@ namespace DataSetInsertion
         {
             ConnectionInfo connectionInfo = new ConnectionInfo
             {
-                ServerName = "SYNCLAPN13974",
+                ServerName = "",
                 IntegratedSecurity = false,
-                UserName = "sa",
-                Password = "sync1234",
-                Database = "kavinTest"
+                UserName = "",
+                Password = "",
+                Database = ""
             };
 
             ColumnInfo columnInfo = new ColumnInfo
